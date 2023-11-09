@@ -13,7 +13,7 @@ const circumference = function(diameter) {
 
 console.log(circumference(10));
 
-/*
+
 const function1 = function() {
     console.log();
     console.log(function2());
@@ -23,7 +23,7 @@ console.log(function2())
 
 const function2 = function() {
     console.log();
-} */
+} 
 
 // This gives an error due to function2 not being defined prior to the call to a function
 
